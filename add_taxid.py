@@ -15,5 +15,11 @@ with open(database, 'r') as fa_in:
 Uses:
 python add_taxid.py input taxid output
 input is a fasta file
-Used to change the fasta header to make it appropriate for kraken
+Used to change the fasta header to make it appropriate for Kraken
+
+TaxIDs of note:
+* Bacteria    -   2
+* Embryophyte -   3193
+* Fungi       -   4751
+* Insecta     -   50557
 '''
